@@ -48,7 +48,8 @@ header a {
     text-decoration: none;
 }
 
-header p, p {
+header p, footer p {
+    /* change from affecting all <p> in the page to only in the header and footer for ease of future changes */
     font-size: 16px;
 }
 /* HEADER STYLES END HERE */
@@ -192,13 +193,15 @@ header p, p {
     font-size: 36px;
 }
 
-.footer {
+/* FOOTER STYLING START */
+footer {
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
 
-.footer h2 {
+footer h2 {
     font-size: 20px;
 }
+/* FOOTER STYLING END */
