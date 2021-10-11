@@ -64,15 +64,6 @@ header p, footer p {
     background-position: center;
 }
 /* HERO STYLES END HERE */
-.float-left {
-    float: left;
-    margin-right: 25px;
-}
-
-.float-right {
-    float: right;
-    margin-left: 25px;
-}
 
 .content {
     width: 75%;
@@ -205,3 +196,14 @@ footer h2 {
     font-size: 20px;
 }
 /* FOOTER STYLING END */
+
+/* Utility Classes */
+.float-left {
+    float: left;
+    margin-right: 25px;
+}
+
+.float-right {
+    float: right;
+    margin-left: 25px;
+}
