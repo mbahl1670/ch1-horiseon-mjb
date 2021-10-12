@@ -23,7 +23,7 @@ https://mbahl1670.github.io/horiseon-ch1-mjb/
 
 
 ## How this was accomplished
-* added semantic component of <header>, and <nav>igation elements
-* added semantic component of <footer>
-* created <section> elements for the HERO, Content and Benefits sections
-* added <alt> descriptions for the various images in the page
+* added semantic component of header, and navigation elements
+* added semantic component of footer
+* created section elements for the HERO, Content and Benefits sections
+* added alt descriptions for the various images in the page
