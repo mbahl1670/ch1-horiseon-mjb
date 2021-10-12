@@ -3,9 +3,6 @@
 ## Built With
 * HTML
 * CSS
-* What
-* Why
-* How
 
 ## Acceptance Criteria
 Refractor the starting code provided to meet acceptance criteria
