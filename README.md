@@ -16,10 +16,10 @@ Refractor the starting code provided to meet acceptance criteria
 ![Screenshot of Horiseon](./assets/images/Screenshot.png)
 
 ## Git Repository
-https://github.com/mbahl1670/horiseon-ch1-mjb
+https://github.com/mbahl1670/ch1-horiseon-mjb
 
 ## Website
-https://mbahl1670.github.io/horiseon-ch1-mjb/
+https://mbahl1670.github.io/ch1-horiseon-mjb/
 
 
 ## How this was accomplished
